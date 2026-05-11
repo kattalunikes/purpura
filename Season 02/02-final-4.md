@@ -1,4 +1,4 @@
-# S2.F4 - START OF THE END, PART 2 OF 2, END OF SEASON 2
+## S2.F4 - START OF THE END, PART 2 OF 2, END OF SEASON 2
 
 ### Erebos zerfällt.
 
@@ -25,6 +25,7 @@ Das Wesen: „Du erinnerst dich.“
 Purpurs Augen weiten sich leicht.
 
 ### FLASHBACK
+
 > Ein jüngerer Purpur.  
 > Allein.  
 > Zerstörte Gebäude.  

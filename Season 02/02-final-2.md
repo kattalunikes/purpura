@@ -1,4 +1,4 @@
-# S2.F2 - „Die Insel unter dem Meer“
+## S2.F2 - „Die Insel unter dem Meer“
 
 Die Moby Purpura durchbricht den Nebel.
 Zum ersten Mal seit Tagen sieht die Crew wieder festen Boden.
