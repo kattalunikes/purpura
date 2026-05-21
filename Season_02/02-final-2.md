@@ -25,7 +25,7 @@ Fear: „Und wir waren auf der Laborinsel.“
 
 Amii: „Ich bekomme Gänsehaut.“
 
-Selbst Nox knurrt leise.
+Selbst Akira knurrt leise.
 Und Dante stellt sofort das Fell auf.
 Die Tiere spüren es zuerst.
 Hier stimmt etwas nicht.
@@ -128,7 +128,7 @@ Mitch knackt die Finger.
 Freddy klappt sein Buch zu.
 Vio zieht ihre Klingen.
 Amii atmet tief durch.
-Selbst Nox und Dante stellen sich bereit.
+Selbst Akira und Dante stellen sich bereit.
 Und während die Crew die ersten Schritte auf Erebos setzt, öffnet sich die gigantische Tür ein Stück weiter.
 
 Von allein.

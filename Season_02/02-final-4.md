@@ -172,7 +172,7 @@ Die Schatten verlieren langsam Kontrolle.
 Denn zum ersten Mal seit langer Zeit...
 steht er nicht alleine da.
 
-Dann plötzlich: Dante und Nox.
+Dann plötzlich: Dante und Akira.
 Die beiden springen direkt vor Purpur.
 Knurrend.
 Beschützend.
@@ -206,7 +206,7 @@ Devil.
 Luxi.
 Hel.
 Luna.
-Und selbst Nox und Dante.
+Und selbst Akira und Dante.
 Alles trifft gleichzeitig das Auge.
 
 *BOOOOOOOM*
@@ -268,6 +268,6 @@ Die Moby Purpura fährt in den Sonnenuntergang.
 * Luna nervt Mitch
 * Freddy liest
 * Vio diskutiert mit Amii
-* Nox schläft mitten im Weg
+* Akira schläft mitten im Weg
 * Purpur lächelt minimal
 * Und weit entfernt... beobachtet jemand das Schiff. Mit einem einzigen weißen Auge.

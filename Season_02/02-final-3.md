@@ -156,9 +156,9 @@ Freddy:
 
 „ENDLICH MAL EIN PLAN DEN DU VERSTEHST.“
 
-Nox und Dante kämpfen ebenfalls.
+Akira und Dante kämpfen ebenfalls.
 
-Nox zerreißt Schattenwesen mit purer Gewalt.
+Akira zerreißt Schattenwesen mit purer Gewalt.
 Dante nutzt Haki präziser als je zuvor.
 
 Selbst Luxi zieht seine Waffe.

@@ -123,7 +123,7 @@ Zum ersten Mal ernst.
 
 Hel: „Ja.“
 
-Nox liegt auf Deck. Kopf auf Lunas Schoß.
+Akira liegt auf Deck. Kopf auf Lunas Schoß.
 Dante daneben bei Fear.
 Die gesamte Crew ist versammelt.
 Alle zusammen.
@@ -158,7 +158,7 @@ Luna,
 Gemini,
 Devil,
 Hel,
-Nox,
+Akira,
 Dante.
 Seine Familie.
 
