@@ -59,6 +59,7 @@ Das Auge beginnt zu pulsieren.
 Das Wesen: „Du wurdest nicht geboren, um frei zu sein.“
 
 Weitere Erinnerungen.
+
 > Purpur alleine.  
 > Immer alleine.  
 > Zu stark. Zu gefährlich. Zu gefürchtet.
