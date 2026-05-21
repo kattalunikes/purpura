@@ -4,7 +4,7 @@ title: "Purpura!"
 subtitle: "Die Legenden der Moby Purpura"
 author:
   - "von Fear und der Crew aus Tentakelhausen"
-  - "(Amii, Devil, Luna, Luxi, Mitch, Purpur, Vio)"
+  - "(Albi, Amii, Devil, Luna, Luxi, Mitch, Purpur, Shanty, Vio)"
 
 documentclass: book
 classoptions:
